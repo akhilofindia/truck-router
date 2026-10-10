@@ -1,4 +1,4 @@
-# Route desk
+# Truck router
 
 A React and Django app that helps a truck driver compare routes by the weather they will meet, the weight they are hauling, and how long the trip takes.
 
